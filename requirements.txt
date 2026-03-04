@@ -1,0 +1,4 @@
+polars
+ipykernel
+gurobipy
+pyarrow
