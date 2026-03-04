@@ -12,7 +12,6 @@ towns = {(1, "Manchester"),
            (5, "Rochester"),
            (6, "Salem"),
            (7, "Keene"),
-           (8, "Hanover/Lebanon"),
+           (8, "Hanover"),
            (9, "Laconia"),
-           (10, "Berlin"),
-           (11, "Hanover")}
+           (10, "Berlin")}

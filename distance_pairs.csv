@@ -1,0 +1,51 @@
+power_plant,town,distance,power_plant_id,town_id
+Essential Power Newington,Manchester,1154.767881309042,2,6
+Essential Power Newington,Nashua,2434.7194125213723,2,7
+Essential Power Newington,Concord,2470.0958342281647,2,2
+Essential Power Newington,Portsmouth,192.86028712579576,2,8
+Essential Power Newington,Rochester,1314.4503308657522,2,9
+Essential Power Newington,Salem,2108.6267586777467,2,10
+Essential Power Newington,Keene,2946.5873224618695,2,4
+Essential Power Newington,Hanover,7602.220447243782,2,3
+Essential Power Newington,Laconia,3436.5181696117893,2,5
+Essential Power Newington,Berlin,6806.807394019285,2,1
+Granite Ridge Energy Center,Manchester,550.4456294120439,3,6
+Granite Ridge Energy Center,Nashua,914.0545540407737,3,7
+Granite Ridge Energy Center,Concord,959.8421547148075,3,2
+Granite Ridge Energy Center,Portsmouth,1451.0214727936973,3,8
+Granite Ridge Energy Center,Rochester,2709.606771889066,3,9
+Granite Ridge Energy Center,Salem,795.6627644805588,3,10
+Granite Ridge Energy Center,Keene,677.7123353244978,3,4
+Granite Ridge Energy Center,Hanover,5765.103381995569,3,3
+Granite Ridge Energy Center,Laconia,3751.3737769301,3,5
+Granite Ridge Energy Center,Berlin,6761.501462496569,3,1
+Comerford Hydropower Station + Moore Hydropower Station,Manchester,7011.167591571185,1,6
+Comerford Hydropower Station + Moore Hydropower Station,Nashua,7005.110287402035,1,7
+Comerford Hydropower Station + Moore Hydropower Station,Concord,7003.310080980524,1,2
+Comerford Hydropower Station + Moore Hydropower Station,Portsmouth,9353.922652304058,1,8
+Comerford Hydropower Station + Moore Hydropower Station,Rochester,8229.141404379186,1,9
+Comerford Hydropower Station + Moore Hydropower Station,Salem,7451.931803983255,1,10
+Comerford Hydropower Station + Moore Hydropower Station,Keene,6685.999304204617,1,4
+Comerford Hydropower Station + Moore Hydropower Station,Hanover,4016.3034513115326,1,3
+Comerford Hydropower Station + Moore Hydropower Station,Laconia,5453.504782032983,1,5
+Comerford Hydropower Station + Moore Hydropower Station,Berlin,2622.6581126346528,1,1
+Seabrook Station,Manchester,927.7830593541182,5,6
+Seabrook Station,Nashua,979.438099672588,5,7
+Seabrook Station,Concord,1020.0604860173493,5,2
+Seabrook Station,Portsmouth,1173.448367312121,5,8
+Seabrook Station,Rochester,2587.5589395135494,5,9
+Seabrook Station,Salem,716.4218571409637,5,10
+Seabrook Station,Keene,1496.1486616423867,5,4
+Seabrook Station,Hanover,7425.218162724793,5,3
+Seabrook Station,Laconia,4325.28746804443,5,5
+Seabrook Station,Berlin,6813.958741337467,5,1
+Merrimack Station,Manchester,909.372881532014,4,6
+Merrimack Station,Nashua,2335.046202769482,4,7
+Merrimack Station,Concord,2378.931126927844,4,2
+Merrimack Station,Portsmouth,1041.819497574572,4,8
+Merrimack Station,Rochester,1459.5060470399771,4,9
+Merrimack Station,Salem,2255.0225030337588,4,10
+Merrimack Station,Keene,1953.104071189668,4,4
+Merrimack Station,Hanover,4797.225500710973,4,3
+Merrimack Station,Laconia,2432.088677275095,4,5
+Merrimack Station,Berlin,6644.650021210056,4,1
